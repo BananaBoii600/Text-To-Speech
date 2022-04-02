@@ -5,6 +5,8 @@ Text to speech made in [python](https://www.python.org) using `pyttsx3` and `tki
 
 The code has comments, thus can be easily understood
 
+I can only provide Linux executables atm, if you want a windows executable, you can download the source code and use pyinstaller to convert it to a executable file
+
 # Dependencies
 
 This app requires [python](https://www.python.org/downloads) and some python modules to be installed in your computer.
