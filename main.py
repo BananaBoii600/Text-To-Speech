@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk,entry,Label,root,Entry,Button
 import pyttsx3
 
 
