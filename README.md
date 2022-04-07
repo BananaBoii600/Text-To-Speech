@@ -1,4 +1,6 @@
 # Text-To-Speech
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 Text to speech made in [python](https://www.python.org) using `pyttsx3` and `tkinter`
 
 ![Screenshot from 2022-04-02 18-34-13](https://user-images.githubusercontent.com/98301106/161384635-d7d8a1ea-0617-4290-912d-621067830c56.png)
