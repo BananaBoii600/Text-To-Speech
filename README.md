@@ -17,7 +17,7 @@ The app uses `tkinter` for gui, thus it is required for the user to install tkin
 ```sh
 pip install tk
 ```
-The app also uses `pyttsx3` for the main text to speech, thus it is required to install pyttsx2 by typing the following command in the command prompt/terminal
+The app also uses `pyttsx3` for the main text to speech, thus it is required to install pyttsx3 by typing the following command in the command prompt/terminal
 ```sh
 pip install pyttsx3==2.71
 ```
